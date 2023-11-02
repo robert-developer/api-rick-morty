@@ -1,5 +1,7 @@
 ## Frontend NextJS Rick and Morty
 
+<p>El proyecto usa data estatica para enviarlo al frontend, usando el filro de species human</p>
+
 **Levantar proyecto**
 
 <p>Es necesario tener instalado yarn</p>
